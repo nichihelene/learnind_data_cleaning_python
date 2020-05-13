@@ -61,10 +61,9 @@
             "title":"Gender empowerment measure (GEM) Rank  ",
             "type":"integer",
             "description":"Gender empowerment measure (GEM) Rank of the countries",
-            "constraints":{
+            
          
-                "unique":true
-            }
+                
         },
         { 
 
