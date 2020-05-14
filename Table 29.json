@@ -1,5 +1,5 @@
 { 
-   "name" :"Gender_Empowerment_Measure_Per_Country_Table_29_Nojh",
+   "name" :"nv_table29",
    "title": "Gender empowerment measure and achieving equality for all women and men ",
    "description" :"Database that ranks countries based on the gender empowerment measure taken by them  in achieving equality for all women and men ",
     "fields" :  [
