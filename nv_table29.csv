@@ -19,7 +19,7 @@ HDI_rank,Hum_dev_level,country_name,GEM_rank,GEM_value,Seats_parlia_wom,Fem _le_
 18,High,Luxembourg,..,..,23.3,..,..,0.51
 19,High,New Zealand,11,0.811,32.2,36,53,0.70
 20,High,Italy,21,0.693,16.1,32,46,0.47
-21,High,Hong Kong, China (SAR),..,..,..,27,40,0.56
+21,High,Hong Kong,China(SAR),..,..,..,27,40,0.56
 22,High,Germany,9,0.831,30.6,37,50,0.58
 23,High,Israel,28,0.660,14.2,26,54,0.65
 24,High,Greece,37,0.622,13.0,26,49,0.55
@@ -164,7 +164,7 @@ HDI_rank,Hum_dev_level,country_name,GEM_rank,GEM_value,Seats_parlia_wom,Fem _le_
 163,Low,Benin,..,..,8.4,..,..,0.47
 164,Low,Malawi,..,..,13.6,..,..,0.73
 165,Low,Zambia,..,..,14.6,..,..,0.55
-166,Low,Côte d'Ivoire,..,..,8.5,..,..,0.32
+166,Low,CÃ´te d'Ivoire,..,..,8.5,..,..,0.32
 167,Low,Burundi,..,..,31.7,..,..,0.77
 168,Low,Congo (Democratic Republic of the),..,..,7.7,..,..,0.52
 169,Low,Ethiopia,72,0.477,21.4,20,30,0.60
