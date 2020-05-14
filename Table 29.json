@@ -91,7 +91,7 @@
             "description":"Gender empowerment measure (GEM) Value of the countries",
             "constraints":{ 
                 
-                "minimum":0.1
+                "minimum":0
                   
                           }
             
@@ -104,7 +104,7 @@
             "description":"Seats in parliament held by womena (% of total) ;percentage  calculated on the basis of data on parliamentary seats from IPU 2007c",
             "constraints":{ 
                 
-                "minimum":0.1
+                "minimum":0
                   
                           }
         },
@@ -117,7 +117,7 @@
             "description":"percentage of Female legislators,senior officials and managersb calculated on the basis of occupational data from ILO 2007b ",
             "constraints":{ 
                 
-                "minimum":0.1
+                "minimum":0
                   
                           }
         },
@@ -130,7 +130,7 @@
             "description":"percentage of the female professional and technical worked calculated on the basis of occupational data from ILO 2007b.  ",
             "constraints":{ 
                 
-                "minimum":0.1
+                "minimum":0
                   
                           }
         },
@@ -142,7 +142,7 @@
             "description":"Ratio of estimated  female to male earned incomec calculated on the basis of data in columns 9 and 10 of Table 28 ",
             "constraints":{ 
                 
-                "minimum":0.1
+                "minimum":0
                   
                           }
         }
